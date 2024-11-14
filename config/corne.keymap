@@ -107,7 +107,7 @@
 
             bindings = <
 &kp GRAVE  &kp EXCL              &kp AT                 &kp HASH  &kp DLLR  &kp PRCNT &mmv MOVE_UP     &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR   &kp RPAR  &kp BSPC
-&kp TILDE  &kp LBRC              &kp PIPE               &kp BSLH  &kp DQT   &kp SQT   &mmv MOVE_DOWN   &kp PLUS   &kp EQUAL  &kp MINUS  &kp UNDER  &kp RBKT  &trans
+&kp TILDE  &kp LBRC              &kp PIPE               &kp BSLH  &kp DQT   &kp SQT   &mmv MOVE_DOWN   &kp PLUS   &kp EQUAL  &kp UNDER  &kp MINUS  &kp RBKT  &trans
 &trans     &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)  &trans    &trans    &trans    &mmv MOVE_LEFT   &trans     &kp LBRC   &kp LBKT   &kp RBKT   &kp RBRC  &trans
                                  &trans                 &trans    &trans    &trans    &mmv MOVE_RIGHT  &trans     &trans     &trans
                                                                                       &mkp LCLK
